@@ -43,7 +43,8 @@ public class AppConfig {
 								"http://localhost:3000", 
 								"http://localhost:4000",
 								"http://localhost:4200",
-								"https://ecommercee-beta.vercel.app"
+								"https://ecommercee-beta.vercel.app",
+							"https://ecommercee-14p32ihu7-misbah-quadris-projects.vercel.app"
 								
 							)
 						);
